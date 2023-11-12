@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Alex Mazzoni</h1>
-<h3 align="center" href="https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche">Student at University Of Bologna</h3>
+<h3 align="center"><a href="https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche">Student at University Of Bologna</a></h3>
 
 <p></p>
 
