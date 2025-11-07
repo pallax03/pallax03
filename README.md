@@ -3,8 +3,13 @@
 
 <p></p>
 
-<div align='center'>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=pallax03&theme=black-ice&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
-  <p></p>
-  <img src='https://github-profile-trophy.vercel.app/?username=pallax03&row=1&column=6&margin-h=15&theme=onestar&no-frame=true'/>  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pallax03&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=great-gatsby&locale=en&hide_border=true&order=1" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pallax03&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=great-gatsby&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/pallax03/pallax03/output/snake.svg" alt="Snake animation" />
+
+###
